@@ -27,9 +27,6 @@ This application is free and open-source:
 https://github.com/mtransitapps/ca-red-deer-transit-bus-android
 
 This app is not related with Red Deer Transit and the City of Red Deer.
-
-Permissions:
-- Other: required to read news from Twitter.
 ----------
 Application type: Applications
 ----------
