@@ -1,6 +1,2 @@
-'2',10001,70600,0,'Lacombe Blackfalds Express',12000,0,'Lacombe Blackfalds Express',78500,0,'Lacombe Blackfalds Express',19000,0,'Lacombe Blackfalds Express',33400,0,'Lacombe Blackfalds Express'
-'4',10001,70600,0,'Lacombe Blackfalds Express',12000,0,'Lacombe Blackfalds Express',78500,0,'Lacombe Blackfalds Express',19000,0,'Lacombe Blackfalds Express',33400,0,'Lacombe Blackfalds Express'
-'6',10001,70600,0,'Lacombe Blackfalds Express',12000,0,'Lacombe Blackfalds Express',78500,0,'Lacombe Blackfalds Express',19000,0,'Lacombe Blackfalds Express',33400,0,'Lacombe Blackfalds Express'
-'2',10101,104200,0,'Lacombe Blackfalds Local',36000,0,'Lacombe Blackfalds Local'
-'4',10101,104200,0,'Lacombe Blackfalds Local',36000,0,'Lacombe Blackfalds Local'
-'6',10101,104200,0,'Lacombe Blackfalds Local',36000,0,'Lacombe Blackfalds Local'
+'MF',10001,72600,,'',10000,,'',78500,,'',19000,,''
+'MF',10101,94200,,'',10000,,'',30000,,'',5800,,'',34200,,''
