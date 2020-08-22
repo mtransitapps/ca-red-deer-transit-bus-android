@@ -1,83 +1,22 @@
-101,0,'City Ctr / Sorensen Sta',1
-100,0,'Inglewood',1
-201,0,'City Ctr / Sorensen Sta',2
-200,0,'Johnstone Pk',2
-300,0,'Anders Pk',3
-301,0,'City Ctr / Sorensen Sta',3
-401,0,'City Ctr / Sorensen Sta',4
-400,0,'Kentwood',4
-501,0,'City Ctr / Sorensen Sta',5
-500,0,'Collicutt Ctr',5
-601,0,'City Ctr / Sorensen Sta',6
-600,0,'Garden Hts',6
-701,0,'City Ctr / Sorensen Sta',7
-700,0,'Vanier Woods',7
-801,0,'City Ctr / Sorensen Sta',8
-800,0,'Normandeau',8
-901,0,'City Ctr / Sorensen Sta',9
-900,0,'Inglewood',9
-1001,0,'City Ctr / Sorensen Sta',10
-1000,0,'Inglewood',10
-1101,0,'City Ctr / Sorensen Sta',11
-1100,0,'Johnstone Pk',11
-1203,1,'N',12
-1204,1,'S',12
-2001,0,'Lindsay Thurber',20
-2000,0,'Oriole Pk',20
-2101,0,'Lindsay Thurber',21
-2100,0,'Normandeau / Glendale',21
-2201,0,'Lindsay Thurber',22
-2200,0,'Normandeau',22
-2300,0,'Eastview Ests',23
-2301,0,'Lindsay Thurber',23
-2400,0,'East Hl',24
-2401,0,'Lindsay Thurber',24
-2500,0,'Johnstone Pk',25
-2501,0,'Lindsay Thurber',25
-2601,0,'Hunting Hls',26
-2600,0,'West Pk',26
-2700,0,'Eastview Ests',27
-2701,0,'Hunting Hls',27
-2800,0,'Eastview Ests',28
-2801,0,'Eastview Middle School',28
-2900,0,'City Ctr Sorensen Sta',29
-2901,0,'Notre Dame / Hunting Hls',29
-3001,0,'City Ctr / Sorensen Sta',30
-3100,0,'City Ctr / Sorensen Sta',31
-3101,0,'Saint Joseph School',31
-3201,0,'Central Middle School',32
-3200,0,'Normandeau / Timberlands',32
-3300,0,'City Ctr / Sorensen Sta',33
-3301,0,'Lindsay Thurber',33
-3400,0,'Normandeau / Highland Grn',34
-3401,0,'Saint Joseph School',34
-3501,0,'Central Middle School',35
-3500,0,'Fairview / Riverside Mdws',35
-3601,0,'City Ctr / Lazy Bus',36
-3701,0,'Saint Joseph School',37
-3700,0,'Timberlands / Rosedale',37
-3800,0,'Clearview / Deer Pk',38
-3801,0,'Saint Joseph School',38
-3901,0,'Hunting Hls / Eastview School',39
-3900,0,'Morrisroe / Lancaster',39
-4000,0,'Johnstone Pk / Kentwood',40
-4001,0,'Saint Joseph School',40
-4100,0,'Kentwood / Glendale',41
-4101,0,'Saint Joseph School',41
-5001,0,'City Ctr / Sorensen Sta',50
-5000,0,'Edgar Ind',50
-5101,0,'City Ctr / Sorensen Sta',51
-5100,0,'Riverside Ind',51
-5203,0,'Riverside Dr',52
-5303,0,'Riverside Dr',53
-5403,0,'Riverside Dr',54
-10000,0,'Lacombe',100
-10001,0,'Red Deer',100
-10100,0,'Lacombe',101
-10101,0,'Red Deer',101
+100,0,'Bower',1
+101,0,'Kingston',1
+200,0,'Bower',2
+201,0,'Kingston',2
+300,0,'Bower',3
+301,0,'Sorensen',3
+400,0,'Bower',4
+401,0,'Kingston',4
+1001,0,'Rosedale',10
+1100,0,'Bower',11
+1101,0,'Sorensen',11
+1201,0,'Gasoline Alley',12
+1300,0,'Bower',13
+1301,0,'Sorensen',13
+1501,0,'Pines - Normandeau',15
+1601,0,'Oriole Pk',16
+1801,0,'Riverside Industrial',18
+1901,0,'Edgar Industrial',19
 10303,1,'N',103
 10304,1,'S',103
 10403,1,'N',104
 10404,1,'S',104
-1003501,0,'Central Middle School',10035
-1003500,0,'Oriole Pk',10035
