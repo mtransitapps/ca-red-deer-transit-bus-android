@@ -68,7 +68,7 @@
 698,'698','NB 57 Av @ 36 St',52.256836,-113.829479
 699,'699','SB 57 Av @ 57A Av',52.258614,-113.829719
 700,'700','NB 57 Av @ 38 St',52.258702,-113.829488
-701,'701','SB 57 Av @ West Pk Cr',52.261107,-113.829714
+701,'701','SB 57 Av @ W Pk Cr',52.261107,-113.829714
 702,'702','NB 57 Av @ 41 St',52.26124,-113.829484
 705,'705','EB 28 St @ Taylor Dr',52.24469,-113.816588
 706,'706','WB 28 St @ 50 Av',52.244955,-113.816653
@@ -449,7 +449,7 @@
 1163,'1163','SB Davison Dr @ Dawson St',52.262602,-113.758893
 1165,'1165','EB Ramsey Av @ Rutherford Cl',52.272852,-113.759976
 1166,'1166','WB Ramsey Av @ Ramsey Cl',52.273062,-113.760198
-1167,'RD1167','EB Randolph St @ Ramsey Av',52.271096,-113.755457
+1167,'1167','EB Randolph St @ Ramsey Av',52.271095,-113.755457
 1168,'1168','SB Donlevy Av @ Duval Cr',52.263172,-113.749485
 1169,'1169','NB Donlevy Av @ Dempsey St',52.263285,-113.74925
 1170,'1170','SB Dempsey St @ Donlevy Av',52.262231,-113.747535
@@ -458,7 +458,7 @@
 1173,'1173','SB Rideout Av @reichley St',52.268276,-113.750252
 1174,'1174','NB Rideout Av @50 St',52.26821,-113.749999
 1175,'1175','WB Randolph St @ Robinson',52.271227,-113.754981
-1176,'RD1176','EB Raabis St @ Robinson Cres',52.270885,-113.751932
+1176,'1176','EB Raabis St @ Robison Cres',52.270884,-113.751932
 1177,'1177','WB Reinholt Av @ Rowell Cl',52.271105,-113.751618
 1178,'1178','WB Reinholt Av @ Reichley St',52.272609,-113.748681
 1179,'1179','Reinholt Av @ Robinson Cr',52.2725,-113.74845
@@ -566,7 +566,7 @@
 1363,'1363','NB Rutherford Dr @ Rutherford Cl',52.268591,-113.760424
 1364,'1364','WB Roland St @ Roberts Cr',52.26878,-113.76052
 1365,'1365','EB Roland St @ Roberts Cr',52.26909,-113.75469
-1366,'RD1366','WB Roland St @ Roberts Cr',52.269221,-113.75597
+1366,'1366','WB Roland St @ Roberts Cr',52.26922,-113.75597
 1367,'1367','SB Thomlison Av @ 55th St',52.2742,-113.748393
 1368,'1368','NB Thomlison Av @ 55 St',52.274219,-113.748094
 1370,'1370','NB Edgar Ind Dr @ Edgar Ind Bend',52.30407,-113.85551
