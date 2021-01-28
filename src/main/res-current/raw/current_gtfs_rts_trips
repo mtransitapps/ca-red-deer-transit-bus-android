@@ -1,17 +1,17 @@
-100,0,'Bower',1
-101,0,'Kingston',1
-200,0,'Bower',2
-201,0,'Kingston',2
-300,0,'Bower',3
-301,0,'Sorensen',3
-400,0,'Bower',4
-401,0,'Kingston',4
+100,0,'50 Av @ Bennett',1
+101,0,'Kingston Dr @ Gaetz Av',1
+200,0,'Bennett St @ Baker Av',2
+201,0,'Kingston Dr @ Gaetz Av',2
+301,0,'49 Av @ 48 St Sorensen Stn',3
+300,0,'Bennett St @ Baker Av',3
+400,0,'Bennett St @ Baker Av',4
+401,0,'Kingston Dr @ Gaetz Av',4
 1001,0,'Rosedale',10
-1100,0,'Bower',11
-1101,0,'Sorensen',11
+1101,0,'49 Av @ 48 St Sorensen Stn',11
+1100,0,'Bennett St @ Baker Av',11
 1201,0,'Gasoline Alley',12
-1300,0,'Bower',13
-1301,0,'Sorensen',13
+1301,0,'49 Av @ 48 St Sorensen Stn',13
+1300,0,'Bennett St @ Baker Av',13
 1501,0,'Pines - Normandeau',15
 1601,0,'Oriole Pk',16
 1801,0,'Riverside Ind',18
@@ -34,8 +34,8 @@
 2701,0,'Hunting Hls',27
 2800,0,'Eastview Ests',28
 2801,0,'Eastview Middle School',28
-2901,0,'Hunting Hls & Notre Dame HS',29
-2900,0,'Sorensen',29
+2901,0,'AM',29
+2900,0,'PM',29
 3001,0,'City Ctr / Sorensen Sta',30
 3100,0,'City Ctr / Sorensen Sta',31
 3101,0,'Saint Joseph School',31
@@ -60,9 +60,9 @@
 4101,0,'Saint Joseph School',41
 4200,0,'Clearview North / Timberlands',42
 4201,0,'Lindsay Thurber',42
-10303,1,'N',103
-10304,1,'S',103
-10403,1,'N',104
-10404,1,'S',104
+10300,0,'42nd St @ 51av',103
+10301,0,'Bennett St @ Baker Av',103
+10400,0,'42nd St @ 51av',104
+10401,0,'Bennett St @ Baker Av',104
 1003501,0,'Central Middle School',10035
 1003500,0,'Oriole Pk',10035
