@@ -1,68 +1,22 @@
-100,0,'50 Av @ Bennett',1
-101,0,'Kingston Dr @ Gaetz Av',1
-200,0,'Bennett St @ Baker Av',2
-201,0,'Kingston Dr @ Gaetz Av',2
-301,0,'49 Av @ 48 St Sorensen Stn',3
-300,0,'Bennett St @ Baker Av',3
-400,0,'Bennett St @ Baker Av',4
-401,0,'Kingston Dr @ Gaetz Av',4
-1001,0,'Rosedale',10
-1101,0,'49 Av @ 48 St Sorensen Stn',11
-1100,0,'Bennett St @ Baker Av',11
+101,0,'50 Av @ Bennett',1
+100,0,'Kingston Dr @ Gaetz Av',1
+201,0,'Bennett St @ Baker Av',2
+200,0,'Kingston Dr @ Gaetz Av',2
+300,0,'49 Av @ 48 St Sorensen Stn',3
+301,0,'Bennett St @ Baker Av',3
+401,0,'Bennett St @ Baker Av',4
+400,0,'Kingston Dr @ Gaetz Av',4
+1001,0,'49 Av @ 48 St Sorensen Stn',10
+1000,0,'67 St @ Threfall Gt',10
+1100,0,'49 Av @ 48 St Sorensen Stn',11
+1101,0,'Bennett St @ Baker Av',11
 1201,0,'Gasoline Alley',12
-1301,0,'49 Av @ 48 St Sorensen Stn',13
-1300,0,'Bennett St @ Baker Av',13
-1501,0,'Pines - Normandeau',15
-1601,0,'Oriole Pk',16
-1801,0,'Riverside Ind',18
+1300,0,'49 Av @ 48 St Sorensen Stn',13
+1301,0,'Bennett St @ Baker Av',13
+1501,0,'49 Av @ 48 St Sorensen Stn',15
+1500,0,'76 St @ Gaetz Av',15
+1601,0,'49 Av @ 48 St Sorensen Stn',16
+1600,0,'Orr Dr @ Ogilvie Cl',16
+1801,0,'49 Av @ 48 St Sorensen Stn',18
+1800,0,'77 St @ 40 Av',18
 1901,0,'Edgar Ind',19
-2001,0,'Lindsay Thurber',20
-2000,0,'Oriole Pk',20
-2101,0,'Lindsay Thurber',21
-2100,0,'Normandeau / Glendale',21
-2201,0,'Lindsay Thurber',22
-2200,0,'Normandeau',22
-2300,0,'Eastview Ests',23
-2301,0,'Lindsay Thurber',23
-2400,0,'East Hl',24
-2401,0,'Lindsay Thurber',24
-2500,0,'Johnstone Pk',25
-2501,0,'Lindsay Thurber',25
-2601,0,'Hunting Hls',26
-2600,0,'West Pk',26
-2700,0,'Eastview Ests',27
-2701,0,'Hunting Hls',27
-2800,0,'Eastview Ests',28
-2801,0,'Eastview MS',28
-2901,0,'AM',29
-2900,0,'PM',29
-3001,0,'City Ctr / Sorensen Sta',30
-3100,0,'City Ctr / Sorensen Sta',31
-3101,0,'Saint Joseph S',31
-3201,0,'Central MS',32
-3200,0,'Normandeau / Timberlands',32
-3300,0,'City Ctr / Sorensen Sta',33
-3301,0,'Lindsay Thurber',33
-3400,0,'Normandeau / Highland Grn',34
-3401,0,'Saint Joseph S',34
-3501,0,'Central MS',35
-3500,0,'Fairview / Riverside Mdws',35
-3601,0,'City Ctr / Lazy Bus',36
-3701,0,'Saint Joseph S',37
-3700,0,'Timberlands / Rosedale',37
-3800,0,'Clearview / Deer Pk',38
-3801,0,'Saint Joseph S',38
-3901,0,'Hunting Hls / Eastview S',39
-3900,0,'Morrisroe / Lancaster',39
-4000,0,'Johnstone Pk / Kentwood',40
-4001,0,'Saint Joseph S',40
-4100,0,'Kentwood / Glendale',41
-4101,0,'Saint Joseph S',41
-4200,0,'Clearview North / Timberlands',42
-4201,0,'Lindsay Thurber',42
-10300,0,'42nd St @ 51av',103
-10301,0,'Bennett St @ Baker Av',103
-10400,0,'42nd St @ 51av',104
-10401,0,'Bennett St @ Baker Av',104
-1003501,0,'Central MS',10035
-1003500,0,'Oriole Pk',10035
