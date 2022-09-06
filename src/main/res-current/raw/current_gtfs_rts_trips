@@ -10,7 +10,8 @@
 1000,0,'67 St @ Threfall Gt',10
 1100,0,'49 Av @ 48 St Sorensen Stn',11
 1101,0,'Bennett St @ Baker Av',11
-1201,0,'Gasoline Alley',12
+1200,0,'Bennett St @ Baker Av',12
+1201,0,'Leva Av @ Lantern St',12
 1300,0,'49 Av @ 48 St Sorensen Stn',13
 1301,0,'Bennett St @ Baker Av',13
 1501,0,'49 Av @ 48 St Sorensen Stn',15
@@ -26,8 +27,8 @@
 11200,0,'Pines, Normandeau, Riverside Mdws',112
 11301,0,'CMS',113
 11300,0,'Oriole Pk & Fairview',113
-12000,0,'Clearview Mdws & East',120
-12001,0,'Eastview Middle Sc',120
+12001,0,'AM',120
+12000,0,'PM',120
 12101,0,'AM',121
 12100,0,'PM',121
 12201,0,'Eastview MS',122
@@ -37,7 +38,6 @@
 13001,0,'LTCHS',130
 13000,0,'Sorensen Sta',130
 13101,0,'LTCHS',131
-13100,0,'Normandeau & Pines',131
 13201,0,'AM',132
 13200,0,'PM',132
 13301,0,'LTCHS',133
@@ -54,8 +54,7 @@
 13801,0,'LTCHS',138
 13900,0,'Johnstone Xing & Johnstone Pk',139
 13901,0,'LTCHS',139
-14001,0,'AM',140
-14000,0,'PM',140
+14001,0,'SJHS',140
 14100,0,'Johnstone & Kentwood',141
 14101,0,'SJHS',141
 14201,0,'AM',142
