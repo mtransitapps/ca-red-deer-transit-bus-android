@@ -1,18 +1,18 @@
-'1',1001,52800,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale'
-'2',1001,85800,0,'Rosedale',10000,0,'Rosedale',10000,0,'Rosedale',10000,0,'Rosedale',10000,0,'Rosedale',10000,0,'Rosedale',10000,0,'Rosedale',10000,0,'Rosedale',10000,0,'Rosedale',10000,0,'Rosedale',10000,0,'Rosedale'
-'3',1001,52800,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale'
-'4',1001,52800,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale'
-'5',1001,52800,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale'
-'6',1001,52800,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale',7000,0,'Rosedale',3000,0,'Rosedale'
-'5',11101,75250,,''
-'6',11101,75250,,''
-'5',12001,83930,0,'Eastview MS'
-'6',12001,83930,0,'Eastview MS'
-'5',13501,75500,,''
-'6',13501,75500,,''
-'5',13701,75310,,''
-'6',13701,75310,,''
-'5',14000,160030,0,'SJHS'
-'6',14000,160030,0,'SJHS'
-'5',15000,155700,,''
-'6',15000,155700,,''
+'1',1001,52800,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0
+'2',1001,85800,0,'Rosedale',0,10000,0,'Rosedale',0,10000,0,'Rosedale',0,10000,0,'Rosedale',0,10000,0,'Rosedale',0,10000,0,'Rosedale',0,10000,0,'Rosedale',0,10000,0,'Rosedale',0,10000,0,'Rosedale',0,10000,0,'Rosedale',0,10000,0,'Rosedale',0
+'3',1001,52800,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0
+'4',1001,52800,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0
+'5',1001,52800,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0
+'6',1001,52800,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0,7000,0,'Rosedale',0,3000,0,'Rosedale',0
+'5',11101,75250,,'',0
+'6',11101,75250,,'',0
+'5',12001,83930,0,'Eastview MS',0
+'6',12001,83930,0,'Eastview MS',0
+'5',13501,75500,,'',0
+'6',13501,75500,,'',0
+'5',13701,75310,,'',0
+'6',13701,75310,,'',0
+'5',14000,160030,0,'SJHS',0
+'6',14000,160030,0,'SJHS',0
+'5',15000,155700,,'',0
+'6',15000,155700,,'',0
