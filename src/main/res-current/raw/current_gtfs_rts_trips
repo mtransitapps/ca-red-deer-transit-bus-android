@@ -23,8 +23,8 @@
 1901,0,'Edgar Ind',19
 11101,0,'CMS',111
 11100,0,'Timberstone & Evergreen',111
-11200,0,'Auto Generated-02',112
 11201,0,'CMS',112
+11200,0,'Riverside Mdws, Pines, Gdn Hts',112
 11301,0,'CMS',113
 11300,0,'Oriole Pk & Fairview',113
 12000,0,'Clearview Mdws & East',120
@@ -76,7 +76,3 @@
 15401,0,'HHHS/NDHS',154
 15400,0,'West Lk & West Pk',154
 16001,0,'Pines Alt S',160
-5200000101,0,'Santa Bus',52000001
-5200000201,0,'Santa Bus',52000002
-5200000301,0,'Santa Bus',52000003
-5200000401,0,'Santa Bus',52000004

@@ -1,24 +1,12 @@
 '2',1800,171600,0,'Riverside Ind',0
 '2',1801,51600,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0
-'3',1800,171600,0,'Riverside Ind',0
-'3',1801,51600,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0
-'5',1800,171600,0,'Riverside Ind',0
-'5',1801,51600,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0
-'7',1800,171600,0,'Riverside Ind',0
-'7',1801,51600,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0
-'3',11100,145500,,'',2
-'3',11101,80000,4,'',2
-'7',11100,145500,,'',2
-'7',11101,80000,4,'',2
-'3',11200,145500,,'',2
-'3',11201,80500,4,'',2
-'7',11200,145500,,'',2
-'7',11201,80500,4,'',2
-'3',11300,145500,,'',0
-'3',11301,80500,4,'',0
-'7',11300,145500,,'',0
-'7',11301,80500,4,'',0
-'3',13301,75710,,'',0
-'7',13301,75710,,'',0
-'3',16001,84620,,'',2
-'7',16001,84620,,'',2
+'4',1800,171600,0,'Riverside Ind',0
+'4',1801,51600,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0,7000,0,'Riverside Ind',0,3000,0,'Riverside Ind',0
+'4',11100,145500,,'',0
+'4',11101,80000,4,'',0
+'4',11200,145500,0,'Riverside Mdws, Pines, Gdn Hts & Clearview Rdg',0
+'4',11201,80500,4,'',0
+'4',11300,145500,,'',0
+'4',11301,80500,4,'',0
+'4',13301,75710,,'',0
+'4',16001,84620,,'',0

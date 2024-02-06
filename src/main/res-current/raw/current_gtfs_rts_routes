@@ -7,38 +7,34 @@
 12,'12','Gasoline Alley','',80371,3
 13,'13','Westpark-College-Bower','',80372,3
 15,'15','Pines - Normandeau','',80374,3
-16,'16','Oriole Pk','',80375,3
+16,'16','Orr Dr @ Ogilvie Cl <> 49 Av @ 48 St Sorensen Stn','',80375,3
 18,'18','Riverside Ind','',80377,3
 19,'19','Edgar Ind','',80378,3
-111,'111','Timberstone Evergreen & Clearview Rdg To CMS','',48657,3
-112,'112','Pines Normandeau Riverside Mdws To CMS','',2491520,3
-113,'113','Oriole Pk & Fairview To Central MS','',2491521,3
-120,'120','Eastview MS','',2491549,3
-121,'121','Rosedale & Deerpark Vlg To Eastview MS','',2491550,3
-122,'122','Southbrook & Inglewood To Eastview MS','',2491551,3
-123,'123','Anders Lancaster Deer Pk Ests Morrisroe To Eastview MS','',2491552,3
+111,'111','Timberstone Evergreen & Clearvi','',48657,3
+112,'112','Pines Normandeau Riverside Mea','',2491520,3
+113,'113','Oriole Pk & Fairview To Centra','',2491521,3
+120,'120','Clearview Mdws & Eastview To','',2491549,3
+121,'121','Rosedale & Deerpark Vlg To E','',2491550,3
+122,'122','Southbrook & Inglewood To Eastvi','',2491551,3
+123,'123','Anders Lancaster Deer Pk Est','',2491552,3
 130,'130','Sorensen Sta To LTCHS','',2491580,3
 131,'131','Normandeau & Pines To LTCHS','',2491581,3
-132,'132','Highland Grn & Riverside Mdws To LTCHS','',2491582,3
+132,'132','Highland Grn & Riverside Meado','',2491582,3
 133,'133','Oriole Pk To LTCHS','',2491583,3
-134,'134','Normandeau North & Glendale To LTCHS','',2491584,3
-135,'135','Evergreen Timberstone Clearview Mdws & Clearview To LTCHS','',2491585,3
-136,'136','Sunnybrook Anders Morrisroe Deer Pk To LTCHS','',2491586,3
-137,'137','Rosedale Deer Pk Vlg & Eastview Ests To LTCHS','',2491587,3
+134,'134','Normandeau North & Glendale To L','',2491584,3
+135,'135','Evergreen Timberstone Clearvie','',2491585,3
+136,'136','Sunnybrook Anders Morrisroe D','',2491586,3
+137,'137','Rosedale Deer Pk Vlg & Ea','',2491587,3
 138,'138','Kentwood To LTCHS','',2491588,3
-139,'139','Johnstone Xing & Johnstone Pk To LTCHS','',2491589,3
+139,'139','Johnstone Xing & Johnstone P','',2491589,3
 140,'140','Sorensen Sta To SJHS','',2491611,3
 141,'141','Johnstone & Kentwood To SJHS','',2491612,3
-142,'142','Highland Grn Glendale Normandea & Pines To SJH','',2491613,3
-143,'143','Eastview Deer Pk Clearview To HHHS/ND','',2491614,3
-144,'144','Evergreen Clearview Rdg Timberstone & Rosedale To HHHS/ND','',2491615,3
+142,'142','Highland Grn Glendale Norman','',2491613,3
+143,'143','Eastview Davenport Deer Pk V','',2491614,3
+144,'144','Evergreen Clearview Rdg Timb','',2491615,3
 150,'150','Sorensen Sta To HHHS / NDHS','',2491642,3
-151,'151','Bower West Pk Westlake To HHHS / NDHS','',2491643,3
-152,'152','Eastview Clearview Rosedale Deer Pk To HHHS/ND','',2491644,3
-153,'153','Lancaster Vanier Inglewood & Southbrook To HHHS/ND','',2491645,3
+151,'151','Bower West Pk Westlake To HH','',2491643,3
+152,'152','Eastview Ests Clearview Ros','',2491644,3
+153,'153','Lancaster Vanier Inglewood & S','',2491645,3
 154,'154','HHHS / NDHS','',2491646,3
 160,'160','Pines Alt S','',2491673,3
-52000001,'SNTA1','Day 1 - Santa Bus - Red Deer Transit','',79058729,3
-52000002,'SNTA2','Day 2 - Santa Bus - Red Deer Transit','',79058730,3
-52000003,'SNTA3','Day 3 - Santa Bus - Red Deer Transit','',79058731,3
-52000004,'SNTA4','Day 4 - Santa Bus - Red Deer Transit','',79058732,3
