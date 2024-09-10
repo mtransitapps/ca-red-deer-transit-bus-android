@@ -1,6 +1,12 @@
-'1',12000,161500,4,'',0
-'1',12001,83740,0,'Eastview MS''',0
-'1',13701,75130,0,'LTCHS''',0
-'1',14301,82400,0,'SJHS''',0
-'1',15200,155640,0,'''HHHS / NDHSEastview Ests, Clearview, Rosedale, Deer Pk''',0
-'1',15201,81640,0,'HHHS / NDHS''',0
+'6',12000,161000,0,'Clearview Mdws & Eastview Ests',0
+'6',12001,83720,0,'Eastview MS',0
+'7',12000,161000,0,'Clearview Mdws & Eastview Ests',0
+'7',12001,83720,0,'Eastview MS',0
+'6',13701,75130,0,'LTCHS',0
+'7',13701,75130,0,'LTCHS',0
+'6',14301,82400,0,'SJHS',0
+'7',14301,82400,0,'SJHS',0
+'6',15200,155640,0,'HHHS / NDHSEastview Ests, Clearview, Rosedale, Deer Pk',0
+'6',15201,81640,0,'HHHS / NDHS',0
+'7',15200,155640,0,'HHHS / NDHSEastview Ests, Clearview, Rosedale, Deer Pk',0
+'7',15201,81640,0,'HHHS / NDHS',0
