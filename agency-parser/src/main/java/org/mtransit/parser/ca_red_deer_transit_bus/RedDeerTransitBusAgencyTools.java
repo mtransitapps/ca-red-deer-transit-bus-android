@@ -30,11 +30,6 @@ public class RedDeerTransitBusAgencyTools extends DefaultAgencyTools {
 		return LANG_EN;
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public String getAgencyName() {
