@@ -1,0 +1,24 @@
+{
+    "target_route_type_id": 3,
+    "default_color": "BF311A",
+    "default_color_comment": "RED (from web site CSS)",
+    "default_color_enabled": true,
+    "default_strings_cleaner_enabled": true,
+    "to_lower_upper_case_words": true,
+    "ignore_upper_case_words": [
+        "AM",
+        "CMS",
+        "EB",
+        "EMS",
+        "HHHS",
+        "LTCHS",
+        "MS",
+        "NB",
+        "NDHS",
+        "PM",
+        "SJHS",
+        "SB",
+        "SW",
+        "WB"
+    ]
+}

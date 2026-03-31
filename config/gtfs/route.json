@@ -1,0 +1,51 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "default_route_long_name_enabled": true,
+    "route_id_previous_char_configs": [
+        {
+            "char": "SNTA",
+            "id_part": 52000000
+        }
+    ],
+    "route_short_name_cleaners": [
+        {
+            "regex": "(^(r))",
+            "ignore_case": true
+        }
+    ],
+    "route_long_name_cleaners": [
+        {
+            "regex": "(route [\\d]+[a-z]?)",
+            "ignore_case": true
+        }
+    ],
+    "route_colors_ignored": [
+        "FFFFFF"
+    ],
+    "direction_finder_enabled": true,
+    "direction_headsign_cleaners": [
+        {
+            "regex": "(^(nb|sb|eb|wb) )",
+            "ignore_case": true
+        }
+    ],
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "^\\d+[a-z]? - ",
+            "ignore_case": true
+        },
+        {
+            "regex": "^inbound - ",
+            "ignore_case": true
+        }
+    ],
+    "use_stop_code_for_stop_id": true,
+    "stop_id_not_supported_configs": [
+        {
+            "original_stop_id": "1451_",
+            "stop_id_int": 1451
+        }
+    ]
+}

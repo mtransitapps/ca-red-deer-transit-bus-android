@@ -27,7 +27,7 @@
 11200,0,'Riverside Mdws, Pines, Gdn Hts',112
 11301,0,'CMS',113
 11300,0,'Oriole Pk & Fairview',113
-12000,0,'Clearview Mdws & East',120
+12000,0,'Clearview Mdws & E',120
 12001,0,'Eastview Middle Sc',120
 12101,0,'AM',121
 12100,0,'PM',121
@@ -42,9 +42,9 @@
 13201,0,'AM',132
 13200,0,'PM',132
 13301,0,'LTCHS',133
-13300,0,'Oriole Pk',133
+13300,0,'Oriole Park',133
 13401,0,'LTCHS',134
-13400,0,'Normandeau North & Glendale',134
+13400,0,'Normandeau N & Glendale',134
 13500,0,'Evergreen, Timberstone, Clearview Mdws',135
 13501,0,'LTCHS',135
 13601,0,'LTCHS',136
@@ -65,14 +65,14 @@
 14300,0,'Eastview, Deer Pk, Clearview Mdws',143
 14401,0,'Evergreen, Clearview Rdg, Timberstone, Rosedale',144
 14400,0,'Evergreen, Clearview,Timberstone, Rosedale',144
-15001,0,'HHHS / NDHS',150
+15001,0,'HHHS/NDHS',150
 15000,0,'Sorensen Sta',150
 15101,0,'AM',151
 15100,0,'PM',151
-15200,0,'HHHS / NDHSEastview Ests, Clearview, Rosedale,',152
-15201,0,'HHHS/ND',152
-15301,0,'HHHS/ND',153
+15200,0,'HHHS/NDHSEastview Ests, Clearview, Rosedale,',152
+15201,0,'HHHS/Nd',152
+15301,0,'HHHS/Nd',153
 15300,0,'Lancaster, Vanier, Inglewood & Southbro',153
 15401,0,'HHHS/NDHS',154
-15400,0,'West Lk & West Pk',154
+15400,0,'W Lk & W Pk',154
 16001,0,'Pines Alt S',160
